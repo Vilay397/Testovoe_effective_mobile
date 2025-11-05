@@ -1,0 +1,7 @@
+# Core
+pytest==7.4.4
+selenium==4.15.2
+allure-pytest==2.13.2
+
+# Optional: fast waits and parsing (not strictly needed)
+# webdriver-manager==4.0.1
